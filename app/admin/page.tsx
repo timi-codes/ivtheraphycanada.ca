@@ -431,6 +431,10 @@ export default async function AnalyticsPage({ searchParams }: { searchParams: Pr
             <p className="text-xs text-gray-400">ivtherapycanada.ca · Admin</p>
           </div>
           <div className="flex items-center gap-3">
+            <Link href="/admin/vendors" className="flex items-center gap-1 text-sm text-gray-500 hover:text-gray-900 transition-colors">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+              Vendor Map
+            </Link>
             {/* Date range filter */}
             <AdminDateFilter range={range} tab={tab} fromDate={fromParam} toDate={toParam} />
             {/* User menu */}
