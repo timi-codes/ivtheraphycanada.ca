@@ -1,26 +1,129 @@
 @import "tailwindcss";
 
+/* ─── Design Tokens ─────────────────────────────────── */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Palette */
+  --cream:      #F8F7F4;
+  --cream-dark: #F2F0EB;
+  --teal:       #1E1E2C;  /* charcoal — primary */
+  --teal-dark:  #141420;
+  --teal-mid:   #18182A;
+  --teal-light: #F3F3F5;
+  --amber:      #E8624A;  /* coral — accent */
+  --amber-light:#FEF0EC;
+  --stone:      #1C1917;
+  --muted:      #78716C;
+  --border:     #E7E5E0;
+
+  /* Fonts */
+  --font-body:    var(--font-body, 'DM Sans', sans-serif);
+  --font-display: var(--font-display, 'Syne', sans-serif);
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
+/* ─── Base ──────────────────────────────────────────── */
+html { scroll-behavior: smooth; }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--cream);
+  color: var(--stone);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  letter-spacing: -0.02em;
+}
+
+* { box-sizing: border-box; }
+
+/* ─── Mesh / Noise Hero Background ─────────────────── */
+.hero-mesh {
+  background:
+    radial-gradient(ellipse at 15% 60%, rgba(30,30,44,.18) 0%, transparent 55%),
+    radial-gradient(ellipse at 85% 20%, rgba(232,98,74,.12) 0%, transparent 50%),
+    radial-gradient(ellipse at 55% 90%, rgba(232,98,74,.08) 0%, transparent 45%),
+    var(--cream);
+  position: relative;
+}
+
+/* Subtle grain overlay for depth */
+.hero-mesh::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
+  pointer-events: none;
+  z-index: 0;
+}
+.hero-mesh > * { position: relative; z-index: 1; }
+
+/* ─── Typography Utilities ──────────────────────────── */
+.display { font-family: var(--font-display); }
+
+.gradient-text {
+  background: linear-gradient(135deg, var(--teal) 0%, #5A5A8A 50%, var(--amber) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ─── Card Effects ──────────────────────────────────── */
+.card-lift {
+  transition: transform 0.22s cubic-bezier(.25,.46,.45,.94),
+              box-shadow 0.22s cubic-bezier(.25,.46,.45,.94);
+}
+.card-lift:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 16px 40px -12px rgba(0,0,0,.14), 0 4px 12px -4px rgba(0,0,0,.08);
+}
+
+/* ─── Animated underline ────────────────────────────── */
+.hover-underline { position: relative; display: inline-block; }
+.hover-underline::after {
+  content: '';
+  position: absolute;
+  bottom: -1px; left: 0;
+  width: 0; height: 1.5px;
+  background: var(--teal);
+  transition: width 0.2s ease;
+}
+.hover-underline:hover::after { width: 100%; }
+
+/* ─── Clamp ─────────────────────────────────────────── */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ─── Scrollbar ─────────────────────────────────────── */
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-track { background: var(--cream-dark); }
+::-webkit-scrollbar-thumb { background: #C8C4BD; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #A8A29E; }
+
+/* ─── Stagger animations ────────────────────────────── */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(18px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.fade-up { animation: fadeUp 0.55s cubic-bezier(.25,.46,.45,.94) both; }
+.delay-100 { animation-delay: 0.1s; }
+.delay-200 { animation-delay: 0.2s; }
+.delay-300 { animation-delay: 0.3s; }
+.delay-400 { animation-delay: 0.4s; }
+
+/* ─── Divider dots ──────────────────────────────────── */
+.dot-divider {
+  background-image: radial-gradient(circle, var(--border) 1px, transparent 1px);
+  background-size: 24px 24px;
 }

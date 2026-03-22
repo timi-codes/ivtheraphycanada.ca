@@ -1,0 +1,2487 @@
+{
+  "https://upperroomclinic.com/": {
+    "provider_type": "md,nd,rn",
+    "drip_packages": "energy,hydration_pkg",
+    "add_on_services": "botox,hormone_therapy,ozone,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://wellnesshaus.com/": {
+    "provider_type": "md,np,rn",
+    "drip_packages": "hydration_pkg",
+    "add_on_services": "botox,cryotherapy,hormone_therapy,red_light,weight_loss_program",
+    "clinic_type": "hybrid",
+    "has_booking": "true"
+  },
+  "http://www.ivremedy.ca/": {
+    "provider_type": "",
+    "drip_packages": "athletic,beauty,energy,hangover",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.puretemedspa.ca/": {
+    "provider_type": "np,rn",
+    "drip_packages": "anti_aging,beauty,immune,weight_loss",
+    "add_on_services": "botox,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.lifemedclinic.com/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,hormone_therapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://mybestclinic.com/reviv-iv-therapy/": {
+    "provider_type": "md",
+    "drip_packages": "energy,hydration_pkg",
+    "add_on_services": "botox,weight_loss_program",
+    "clinic_type": "hybrid",
+    "has_booking": "true"
+  },
+  "http://lococowellnessclinic.ca/": {
+    "provider_type": "nd,np,rn",
+    "drip_packages": "anti_aging,beauty,detox,fertility,hydration_pkg,weight_loss",
+    "add_on_services": "acupuncture,hormone_therapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://westendwomenshealth.ca/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "anti_aging,energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.wellbynd.com/": {
+    "provider_type": "nd",
+    "drip_packages": "detox,energy,fertility",
+    "add_on_services": "acupuncture,red_light,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.libertyclinic.com/": {
+    "provider_type": "nd,np",
+    "drip_packages": "anti_aging,beauty,detox,fertility,hangover,hydration_pkg,immune",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.drmoraisnd.com/": {
+    "provider_type": "nd",
+    "drip_packages": "athletic,detox,energy,immune",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://ivbeautyandaesthetics.ca/%3Ffbclid%3DPAAab712J0--pcHsTeFrJFHowfhKI5fPLqizsZliWsnxTphEdO41Bud_oqpIk_aem_AaaaGf49t1FyY_Oex4cE95rkPCGYADrHMf7MLVroZXmoIaG5aK1gNKtQEXCCPmdKjKU": {
+    "provider_type": "rn",
+    "drip_packages": "beauty,hydration_pkg",
+    "add_on_services": "botox,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.animamedspa.com/": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "botox,laser,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://rejuvenationmedspa.ca/%3Futm_campaign%3Dgmb": {
+    "provider_type": "md",
+    "drip_packages": "",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.willownaturopath.com/": {
+    "provider_type": "nd",
+    "drip_packages": "energy,fertility,hydration_pkg",
+    "add_on_services": "acupuncture,hormone_therapy,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://renovomedispa.com/toronto%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp": {
+    "provider_type": "",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://rejuuvmedispa.com/": {
+    "provider_type": "",
+    "drip_packages": "anti_aging,weight_loss",
+    "add_on_services": "botox,hormone_therapy,laser,peptides,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.bionektar.com/": {
+    "provider_type": "",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.medicalaserspa.ca/": {
+    "provider_type": "md",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://activatebeauty.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "botox,cryotherapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.reformelab.com/": {
+    "provider_type": "rn",
+    "drip_packages": "fertility,hydration_pkg",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.healthsourceimc.com/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging,energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.vitalitymd.com/": {
+    "provider_type": "md,nd,np,rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "botox,hormone_therapy,laser,red_light,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.hellosupernatural.com/": {
+    "provider_type": "",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,cryotherapy,hyperbaric,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.timelesshealthclinic.com/": {
+    "provider_type": "md,nd,rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,immune,weight_loss",
+    "add_on_services": "acupuncture,laser,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.trumed.ca/": {
+    "provider_type": "md,nd,np",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,immune",
+    "add_on_services": "acupuncture,hormone_therapy,hyperbaric,peptides",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://optimumwellnessclinic.ca/%3Futm_source%3DGoogle%2520My%2520Business%26utm_campaign%3D041221": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,ozone",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://functionalhealthedmonton.com/": {
+    "provider_type": "md,nd",
+    "drip_packages": "detox,energy,weight_loss",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.tightclinic.com/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging,fertility",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.flowyeg.ca/": {
+    "provider_type": "nd,np",
+    "drip_packages": "fertility",
+    "add_on_services": "hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.naturallyinclinedhealth.com/": {
+    "provider_type": "nd",
+    "drip_packages": "energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.westedmontonnaturopathic.com/": {
+    "provider_type": "nd",
+    "drip_packages": "detox,energy,fertility,immune",
+    "add_on_services": "acupuncture,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://totum.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging,athletic,energy,hangover",
+    "add_on_services": "acupuncture,peptides,red_light,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://healthone.ca/toronto/medical-walk-in-to/%3Futm_source%3Dtoronto%26utm_medium%3Dgooglelocal%26utm_campaign%3Dmedical_walkin": {
+    "provider_type": "nd,rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "acupuncture,botox,cryotherapy,hormone_therapy,laser,ozone,peptides,red_light,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.smrthealth.com/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "acupuncture,botox",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://naturalterrain.com/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,ozone",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.drericmuradov.com/": {
+    "provider_type": "md,nd",
+    "drip_packages": "beauty,energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy,hyperbaric",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://unityhealthforall.com/": {
+    "provider_type": "md,rn",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://emeraldwellness.ca/": {
+    "provider_type": "md",
+    "drip_packages": "athletic,beauty,energy,hydration_pkg,immune,weight_loss",
+    "add_on_services": "botox,hormone_therapy,laser,ozone,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.ontarionaturopathicclinic.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.summerhillnaturopathic.com/": {
+    "provider_type": "nd",
+    "drip_packages": "energy,fertility,immune",
+    "add_on_services": "hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.naturopathyclinic.com/": {
+    "provider_type": "md,nd",
+    "drip_packages": "anti_aging",
+    "add_on_services": "weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://ndcare.ca/%3Futm_source%3Dgmb%26utm_medium%3Dlisting%26utm_campaign%3D2025": {
+    "provider_type": "nd",
+    "drip_packages": "energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://jadewellness.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.naturesintentionsnaturopathy.com/": {
+    "provider_type": "nd",
+    "drip_packages": "detox,energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "false"
+  },
+  "https://rootedsolutionstoronto.com/": {
+    "provider_type": "nd",
+    "drip_packages": "energy",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://citynaturopathic.ca/%3Futm_source%3Dorganic%26utm_medium%3Dgmb%2Bprofile%26utm_campaign%3Dwebsite-button%26utm_id%3Dgmb": {
+    "provider_type": "nd",
+    "drip_packages": "energy",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://drjamesyoon.com/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "hybrid",
+    "has_booking": "true"
+  },
+  "http://www.higherhealthcentre.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocal%26utm_content%3DToronto": {
+    "provider_type": "nd",
+    "drip_packages": "energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.greystoneshealth.com/": {
+    "provider_type": "md,nd",
+    "drip_packages": "anti_aging,energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.aspire-health.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://thedempsterclinic.com/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging,athletic,detox,energy",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://torontofunctionalmedicine.com/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "anti_aging",
+    "add_on_services": "acupuncture,hormone_therapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://drmichellebasuroy.com/": {
+    "provider_type": "md",
+    "drip_packages": "detox,immune",
+    "add_on_services": "hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.torontonaturopathicmedicine.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging,fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.wellness-institute.ca/": {
+    "provider_type": "md,nd,rn",
+    "drip_packages": "hydration_pkg",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://craftedbalanceclinic.com/": {
+    "provider_type": "nd",
+    "drip_packages": "beauty,fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.thenaturalpathclinic.net/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://marnieluck.com/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,hormone_therapy,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.789dupontclinic.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.morganwinton.com/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "hybrid",
+    "has_booking": "false"
+  },
+  "http://www.thetorontoapothecary.com/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://healthone.ca/toronto/wellness-clinic-to/%3Futm_source%3Dtoronto%26utm_medium%3Dgooglelocal%26utm_campaign%3Dwellness": {
+    "provider_type": "md,nd,np,rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "acupuncture,botox,hormone_therapy,laser,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.sowhealth.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,hormone_therapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://drishanipatelnd.com/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://drtaracampbell.com/": {
+    "provider_type": "nd",
+    "drip_packages": "energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.wholisticcarecenter.ca/": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "red_light",
+    "clinic_type": "clinic",
+    "has_booking": "false"
+  },
+  "https://www.villageintegrativemedicine.com/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.aurummedicine.ca/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "energy",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.duhc.ca/": {
+    "provider_type": "md,nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://mahayahealth.com/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.academyhealthcentre.com/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,hormone_therapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://healthandthecity.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "energy,fertility,hangover",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://enviromedclinic.com/": {
+    "provider_type": "md,nd,np",
+    "drip_packages": "detox,energy",
+    "add_on_services": "hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "false"
+  },
+  "https://www.whitelotusclinic.ca/": {
+    "provider_type": "md,nd",
+    "drip_packages": "energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://aurummedicine.ca/about/dr-sairupa-krishnamurti-nd/": {
+    "provider_type": "nd",
+    "drip_packages": "energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://shop.clearmedicine.com/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging,detox,energy,fertility,immune",
+    "add_on_services": "hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://ndcare.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://theclaraclinic.com/": {
+    "provider_type": "nd",
+    "drip_packages": "energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://rosedalewellness.com/": {
+    "provider_type": "",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.kingswaywellnessclinic.com/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.restoreyourhealth.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://emkiro.ca/": {
+    "provider_type": "md,nd,rn",
+    "drip_packages": "anti_aging",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.naturopathinetobicoke.com/": {
+    "provider_type": "md,nd",
+    "drip_packages": "energy",
+    "add_on_services": "hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.roncysapothecaryclinic.com/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://thornhillnaturopathic.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging,energy,fertility,immune",
+    "add_on_services": "acupuncture,hormone_therapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://valnd.com/": {
+    "provider_type": "nd",
+    "drip_packages": "detox,energy,immune",
+    "add_on_services": "acupuncture,hormone_therapy,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.drjenparsonsnd.com/": {
+    "provider_type": "nd",
+    "drip_packages": "beauty,energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://vancouvernaturopathicclinic.com/": {
+    "provider_type": "nd",
+    "drip_packages": "detox,energy",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.clementinenaturalhealth.com/": {
+    "provider_type": "md,nd,rn",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.integrative.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "detox",
+    "add_on_services": "acupuncture,laser,ozone",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.baywellnesscentre.com/": {
+    "provider_type": "nd,np",
+    "drip_packages": "anti_aging,fertility",
+    "add_on_services": "acupuncture,botox,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.crossroadsnaturopathic.com/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,botox,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://drcarolinecoombs.com/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging,energy",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.doctorschoiceintegrative.com/": {
+    "provider_type": "md,nd",
+    "drip_packages": "immune",
+    "add_on_services": "acupuncture",
+    "clinic_type": "hybrid",
+    "has_booking": "true"
+  },
+  "https://springseternal.com/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging,energy,fertility",
+    "add_on_services": "acupuncture,botox",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://calgarynaturalwellness.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "energy",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.divineelements.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging",
+    "add_on_services": "hormone_therapy,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.vivehealth.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "ozone",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.calgaryintegrativemedicine.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "acupuncture,hormone_therapy,laser,ozone",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.livewellhealthandwellness.ca/%3Futm_source%3DGBP%26utm_medium%3Dorganic": {
+    "provider_type": "nd,rn",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.integrativehealthcentre.com/": {
+    "provider_type": "nd",
+    "drip_packages": "energy",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://neurvanahealth.com/book-consult/": {
+    "provider_type": "md,nd,rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "botox,hormone_therapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://veravitaclinic.com/": {
+    "provider_type": "md,nd,np",
+    "drip_packages": "energy,fertility,immune",
+    "add_on_services": "acupuncture,botox,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.wellnessandgreatness.com/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging,energy,fertility",
+    "add_on_services": "acupuncture,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.drdhaliwal.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.healthflow.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://novaclinic.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://mardaloopwellness.com/%3Futm_source%3DGBP%26utm_medium%3Dorganic%26utm_campaign%3Doffice": {
+    "provider_type": "nd,np",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,ozone",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.naturally.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "energy,fertility,immune",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.advancednaturopathic.com/": {
+    "provider_type": "nd",
+    "drip_packages": "athletic,fertility",
+    "add_on_services": "weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.calgarynaturopathiccare.com/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,ozone",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.connectedhealthandskin.com/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "botox",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://lindakodnar.com/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging,energy,fertility",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.drjodiemurdoch.com/": {
+    "provider_type": "nd",
+    "drip_packages": "energy,fertility",
+    "add_on_services": "hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://bodyintune.ca/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "acupuncture,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://drmarnie.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.drjessalandmann.com/": {
+    "provider_type": "nd",
+    "drip_packages": "energy",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.paradigmhealth.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://elevatedhealthcare.ca/": {
+    "provider_type": "md,nd,np",
+    "drip_packages": "energy,fertility",
+    "add_on_services": "hormone_therapy,ozone,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://theclinicyyc.ca/": {
+    "provider_type": "md,nd",
+    "drip_packages": "athletic,energy",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.drbrucehoffman.com/": {
+    "provider_type": "md",
+    "drip_packages": "energy",
+    "add_on_services": "hormone_therapy,peptides",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.resonance-wellness.com/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.halifaxnaturopathic.ca/": {
+    "provider_type": "nd,np",
+    "drip_packages": "energy,fertility",
+    "add_on_services": "acupuncture,botox,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://luminateco.ca/clinic/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.drlevy.ca/": {
+    "provider_type": "md,nd",
+    "drip_packages": "anti_aging,energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://healthhavenclinic.com/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://mytorontonaturopath.com/": {
+    "provider_type": "nd",
+    "drip_packages": "detox,energy",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://askdrjj.com/%3Futm_source%3DGMBhome%26utm_medium%3Dorganic": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging,detox,fertility",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.thevillagehealthclinic.ca/": {
+    "provider_type": "md,nd,np",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,hormone_therapy,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.setonwellness.com/": {
+    "provider_type": "nd",
+    "drip_packages": "detox,energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.dynamichealthclinic.ca/": {
+    "provider_type": "nd,np,rn",
+    "drip_packages": "energy,immune",
+    "add_on_services": "weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.bloomhealthclinic.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,botox,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.mytorontonaturopath.com/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "detox,energy",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.mahayaforesthill.com/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.midtownhwcaesthetics.ca/": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://kristenma.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.urbaniv.com/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "anti_aging,beauty,detox",
+    "add_on_services": "hormone_therapy,ozone",
+    "clinic_type": "clinic",
+    "has_booking": "false"
+  },
+  "https://www.kampomedicine.com/": {
+    "provider_type": "",
+    "drip_packages": "energy,fertility",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.i2healthclinic.com/": {
+    "provider_type": "md,nd,rn",
+    "drip_packages": "energy,fertility,immune",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://thetorontoclinic.com/": {
+    "provider_type": "md,nd",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "false"
+  },
+  "https://my.clevelandclinic.org/canada": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "hormone_therapy",
+    "clinic_type": "hybrid",
+    "has_booking": "true"
+  },
+  "http://www.1clinic.ca/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.welldiagnostics.ca/toronto-davisville": {
+    "provider_type": "md,rn",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.emkiro.ca/": {
+    "provider_type": "md,nd,rn",
+    "drip_packages": "anti_aging",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://eastvanintegratedhealth.com/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://healthone.ca/the-well/medical-tw/%3Futm_source%3Dgoogle%26utm_medium%3Dlocalbusiness%26utm_campaign%3Dthewell": {
+    "provider_type": "nd,rn",
+    "drip_packages": "hydration_pkg",
+    "add_on_services": "acupuncture,botox,hormone_therapy,laser,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.localhealthclinic.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "energy,fertility,immune",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.evokelife.co/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "anti_aging,athletic,energy",
+    "add_on_services": "acupuncture,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://tandemclinic.com/": {
+    "provider_type": "md,nd,np",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.radianthealth.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.evolvewell.ca/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "botox,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.integranaturopathics.com/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging,fertility",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.theiv.ca/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "anti_aging,energy,immune",
+    "add_on_services": "acupuncture,botox",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.curaesse.com/": {
+    "provider_type": "rn",
+    "drip_packages": "",
+    "add_on_services": "botox",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://sovereignmale.ca/": {
+    "provider_type": "md",
+    "drip_packages": "",
+    "add_on_services": "hormone_therapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://essencewellness.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,botox,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://anarainfusion.com/": {
+    "provider_type": "np,rn",
+    "drip_packages": "anti_aging,energy,immune",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://rebalancetoronto.com/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,cryotherapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.essencewellness.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "beauty,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "acupuncture,botox,laser,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://cbamclinic.com/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging,detox,energy,immune,weight_loss",
+    "add_on_services": "botox",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://everwellnd.com/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,botox,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.atheriawellness.com/": {
+    "provider_type": "rn",
+    "drip_packages": "fertility",
+    "add_on_services": "hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.aeonfuturehealth.com/": {
+    "provider_type": "md,nd,rn",
+    "drip_packages": "anti_aging,energy",
+    "add_on_services": "hormone_therapy,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://inspirithealth.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://skinnovate.ca/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "beauty",
+    "add_on_services": "hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://live-alive.ca/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "anti_aging,detox",
+    "add_on_services": "botox,red_light,weight_loss_program",
+    "clinic_type": "hybrid",
+    "has_booking": "true"
+  },
+  "https://broadwayantiaging.com/": {
+    "provider_type": "md,nd,np,rn",
+    "drip_packages": "anti_aging,energy",
+    "add_on_services": "botox,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.ninalenclinic.com/": {
+    "provider_type": "md,nd",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://mybestclinic.com/": {
+    "provider_type": "md",
+    "drip_packages": "hydration_pkg",
+    "add_on_services": "botox,weight_loss_program",
+    "clinic_type": "hybrid",
+    "has_booking": "true"
+  },
+  "http://denoviacanada.com/": {
+    "provider_type": "rn",
+    "drip_packages": "hydration_pkg",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://signaturebeautylounge.ca/": {
+    "provider_type": "md,rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,immune,weight_loss",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.gravityhealthclinics.com/": {
+    "provider_type": "md,nd,np",
+    "drip_packages": "anti_aging,energy,fertility",
+    "add_on_services": "botox,hormone_therapy,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.tayaaesthetics.com/": {
+    "provider_type": "rn",
+    "drip_packages": "athletic,beauty,energy,hydration_pkg,weight_loss",
+    "add_on_services": "botox",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://dluxelab.com/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://skinsocietybar.com/": {
+    "provider_type": "",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,hyperbaric,laser,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://30hazeltonmedspa.com/%3Futm_campaign%3Dgmb%26utm_content%3D30-hazelton-med-spa-toronto%26utm_medium%3Dorganic%26utm_source%3Dgoogle": {
+    "provider_type": "",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.3dlifestyle.ca/toronto/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "botox,laser",
+    "clinic_type": "hybrid",
+    "has_booking": "true"
+  },
+  "https://vividerma.ca/": {
+    "provider_type": "",
+    "drip_packages": "anti_aging,energy",
+    "add_on_services": "botox,laser,peptides,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://ccrttoronto.ca/": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "false"
+  },
+  "http://www.banffaesthetics.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "hangover",
+    "add_on_services": "botox,laser,peptides",
+    "clinic_type": "hybrid",
+    "has_booking": "true"
+  },
+  "https://theinnerwellness.com/%3Futm_source%3DGoogle%26utm_medium%3DGMB": {
+    "provider_type": "md,nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,botox",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.vhmec.com/": {
+    "provider_type": "md,nd,np",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://bodyintune.ca/locations/bodyology/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://themomloft.com/": {
+    "provider_type": "",
+    "drip_packages": "energy,fertility,immune",
+    "add_on_services": "botox,cryotherapy,laser,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://invictamedical.ca/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.healixclinics.com/": {
+    "provider_type": "md",
+    "drip_packages": "",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.hillcresthealthcentre.com/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.skin6.com/%3Futm_source%3Dgmb%26utm_medium%3Dorganic": {
+    "provider_type": "md",
+    "drip_packages": "hydration_pkg",
+    "add_on_services": "botox,hormone_therapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://ssknfirm.com/": {
+    "provider_type": "md",
+    "drip_packages": "anti_aging,energy",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://signaturemedispa.com/": {
+    "provider_type": "md",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,hormone_therapy,laser,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.fusionmed.ca/": {
+    "provider_type": "",
+    "drip_packages": "anti_aging",
+    "add_on_services": "acupuncture,botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://trovewellbeing.com/": {
+    "provider_type": "md,nd,rn",
+    "drip_packages": "anti_aging,energy,fertility",
+    "add_on_services": "acupuncture,cryotherapy,hormone_therapy,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.vermilionmedspa.com/": {
+    "provider_type": "md,rn",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "false"
+  },
+  "http://nardellaclinic.com/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging,energy,fertility",
+    "add_on_services": "hyperbaric,ozone,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "false"
+  },
+  "http://www.aisthetikos.ca/": {
+    "provider_type": "md,rn",
+    "drip_packages": "",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://zulumedicalcosmetics.com/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging,beauty",
+    "add_on_services": "botox,hormone_therapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://thebeautyloungetoronto.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.welldiagnostics.ca/calgary-cardiology": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://newskinyyc.ca/": {
+    "provider_type": "md",
+    "drip_packages": "",
+    "add_on_services": "botox,laser,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://povclinic.com/": {
+    "provider_type": "md,rn",
+    "drip_packages": "anti_aging,hydration_pkg",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://ensoulaesthetics.ca/": {
+    "provider_type": "md",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,laser,peptides",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://vitadripiv.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging,beauty,detox,energy,hydration_pkg,immune",
+    "add_on_services": "weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.oviv.ca/": {
+    "provider_type": "",
+    "drip_packages": "anti_aging,energy,immune,weight_loss",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.ivdrip.fit/": {
+    "provider_type": "md,np,rn",
+    "drip_packages": "anti_aging,beauty,detox,energy,hydration_pkg,immune",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.ziaiv.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging,energy,hangover,immune,weight_loss",
+    "add_on_services": "weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.edmontonironclinic.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "energy",
+    "add_on_services": "weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.nectariv.ca/": {
+    "provider_type": "np,rn",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.hydrooasiswellness.com/": {
+    "provider_type": "rn",
+    "drip_packages": "energy",
+    "add_on_services": "",
+    "clinic_type": "mobile_only",
+    "has_booking": "true"
+  },
+  "https://www.thevitaminclinic.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "hormone_therapy,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.bayshore.ca/locations/bayshore-infusion-clinic-edmonton-ab/": {
+    "provider_type": "rn",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.theloungemedicalspa.com/": {
+    "provider_type": "",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://canadamedlaser.ca/location/midtown/%3Futm_campaign%3Dlocal%26utm_content%3Dmidtown-toronto%26utm_medium%3Dorganic%26utm_source%3Dgoogle": {
+    "provider_type": "",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://jivamedspa.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "false"
+  },
+  "http://www.novaskinandwellness.ca/": {
+    "provider_type": "md,np,rn",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,hormone_therapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.clinic360.com/%3Futm_source%3Dgmb%26utm_medium%3Dorganic%26utm_campaign%3Dlocal": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.healflow.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging,fertility",
+    "add_on_services": "acupuncture,laser,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://prometheanclinic.ca/": {
+    "provider_type": "np",
+    "drip_packages": "anti_aging",
+    "add_on_services": "hormone_therapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.facetoronto.com/": {
+    "provider_type": "md,rn",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://lodyhealth.com/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "hydration_pkg",
+    "add_on_services": "acupuncture,botox,hyperbaric,laser,ozone,peptides,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.thenaturedoctors.ca/": {
+    "provider_type": "nd,np,rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://thehelixclinic.com/": {
+    "provider_type": "md,nd,rn",
+    "drip_packages": "anti_aging,immune",
+    "add_on_services": "botox,laser,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://valeohealthclinic.com/": {
+    "provider_type": "md,nd",
+    "drip_packages": "athletic",
+    "add_on_services": "acupuncture,botox",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://agelessliving.com/": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.mindbodysoulkelowna.com/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,hormone_therapy,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://caremedwellness.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "hydration_pkg",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://drchelseagronick.com/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "botox,hormone_therapy,peptides,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://therecoveryspa.ca/": {
+    "provider_type": "",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "hormone_therapy,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.deerfields.ca/": {
+    "provider_type": "md,nd,np,rn",
+    "drip_packages": "anti_aging,detox,energy,immune,weight_loss",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.drwik.com/": {
+    "provider_type": "md,nd",
+    "drip_packages": "immune",
+    "add_on_services": "ozone",
+    "clinic_type": "clinic",
+    "has_booking": "false"
+  },
+  "http://nexwellness.com/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "false"
+  },
+  "https://www.hydratewellness.com/": {
+    "provider_type": "nd",
+    "drip_packages": "hydration_pkg",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.echohealth.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "hydration_pkg",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://acaciahealth.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.glowintegrative.com/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,hormone_therapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.reverseagingclinic.com/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging,detox",
+    "add_on_services": "hormone_therapy,peptides",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.victoriaroseaesthetics.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "",
+    "add_on_services": "botox,cryotherapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.mediworks.ca/": {
+    "provider_type": "md,nd,rn",
+    "drip_packages": "anti_aging,athletic,beauty,energy,hydration_pkg,immune",
+    "add_on_services": "acupuncture,botox,hormone_therapy,hyperbaric,red_light,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://amreaestheticswellness.com/": {
+    "provider_type": "rn",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,botox,laser,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://radiancewellness.clinic/": {
+    "provider_type": "nd,np,rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,hydration_pkg,immune,weight_loss",
+    "add_on_services": "botox,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.artclinic.ca/": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.farsk.health/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "false"
+  },
+  "https://nrghaus.com/": {
+    "provider_type": "",
+    "drip_packages": "hangover",
+    "add_on_services": "cryotherapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://gilmorewellnessclinic.com/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging",
+    "add_on_services": "acupuncture,botox,laser,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://beehivewellness.ca/": {
+    "provider_type": "md,nd",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://thisisfortify.com/": {
+    "provider_type": "md,nd,np,rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "acupuncture,botox,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.peakhuman.ca/": {
+    "provider_type": "md",
+    "drip_packages": "anti_aging",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://bossaesthetics.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dlocal%26utm_campaign%3Dtoronto-practice-website": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.prestigemedicalaesthetics.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,laser",
+    "clinic_type": "hybrid",
+    "has_booking": "true"
+  },
+  "http://www.viensbeautyspa.ca/": {
+    "provider_type": "md",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,cryotherapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://laserbodymd.ca/locations/brampton/": {
+    "provider_type": "md,nd,rn",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.fleuraesthetics.ca/": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "botox",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.experiencefemme.com/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://hormonetesting.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "energy",
+    "add_on_services": "hormone_therapy",
+    "clinic_type": "hybrid",
+    "has_booking": "true"
+  },
+  "https://miraclemedclinic.com/": {
+    "provider_type": "",
+    "drip_packages": "energy",
+    "add_on_services": "botox,hormone_therapy,laser,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.metatherapylab.com/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "acupuncture,hormone_therapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://healthytodos.com/": {
+    "provider_type": "nd,np",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.fusioncareclinic.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "false"
+  },
+  "http://www.redwoodmedispa.com/": {
+    "provider_type": "md",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,laser,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.astramedicare.ca/": {
+    "provider_type": "md",
+    "drip_packages": "anti_aging,beauty,energy",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://hellosupernatural.com/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,cryotherapy,hyperbaric,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://applemed.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,laser,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "false"
+  },
+  "https://www.vbeautyspa.com/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.thebeautystandard.ca/": {
+    "provider_type": "md,rn",
+    "drip_packages": "anti_aging,beauty",
+    "add_on_services": "botox,laser",
+    "clinic_type": "hybrid",
+    "has_booking": "true"
+  },
+  "https://fillosophieclinic.com/": {
+    "provider_type": "",
+    "drip_packages": "energy",
+    "add_on_services": "botox",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.kihclinic.com/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "energy",
+    "add_on_services": "hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://magyskinhealth.com/": {
+    "provider_type": "md,rn",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.bridgehealth.ca/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "athletic,energy",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://vicpark.com/clinics/toronto/": {
+    "provider_type": "md,rn",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,laser,red_light,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://skinvantage.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging,beauty,hydration_pkg,immune,weight_loss",
+    "add_on_services": "botox,laser,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://drsimona.ca/": {
+    "provider_type": "md,nd",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.eblclinic.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "energy",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.intelligenthealthgroup.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.lmccltd.ca/": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.dinacosmetic.com/": {
+    "provider_type": "",
+    "drip_packages": "anti_aging",
+    "add_on_services": "acupuncture,botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://medcairehealth.ca/": {
+    "provider_type": "nd,np,rn",
+    "drip_packages": "anti_aging,athletic,hydration_pkg,immune,weight_loss",
+    "add_on_services": "acupuncture,botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://injectmetoronto.com/": {
+    "provider_type": "rn",
+    "drip_packages": "",
+    "add_on_services": "botox",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://lumicelhealth.com/": {
+    "provider_type": "md,nd",
+    "drip_packages": "anti_aging,detox,energy",
+    "add_on_services": "ozone",
+    "clinic_type": "clinic",
+    "has_booking": "false"
+  },
+  "http://www.integrative-medicine.ca/": {
+    "provider_type": "md,nd",
+    "drip_packages": "energy,fertility",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://centralparknaturopathic.com/": {
+    "provider_type": "nd",
+    "drip_packages": "hydration_pkg,weight_loss",
+    "add_on_services": "acupuncture,botox,ozone,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://thechi.ca/%3Futm_source%3Dgbp%26utm_medium%3Dorganic%26utm_campaign%3Dgbp": {
+    "provider_type": "nd,np,rn",
+    "drip_packages": "hydration_pkg",
+    "add_on_services": "acupuncture,botox",
+    "clinic_type": "hybrid",
+    "has_booking": "true"
+  },
+  "https://noblenaturopathic.com/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "acupuncture,botox,hormone_therapy,laser,red_light,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.oihc.ca/": {
+    "provider_type": "md,nd,np",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://revivelifeclinic.com/": {
+    "provider_type": "md,nd,np,rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "acupuncture,hormone_therapy,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.somersethealth.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://biohealottawa.com/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "peptides",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://drceaser.com/": {
+    "provider_type": "nd",
+    "drip_packages": "energy,fertility,immune",
+    "add_on_services": "ozone",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://nutrichem.com/clinic/": {
+    "provider_type": "nd",
+    "drip_packages": "athletic,energy",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.naturalmedicine.mb.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.dralicia.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://npath.com/": {
+    "provider_type": "nd",
+    "drip_packages": "energy,immune",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.alpinehealth.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging",
+    "add_on_services": "ozone",
+    "clinic_type": "clinic",
+    "has_booking": "false"
+  },
+  "https://www.vitaliahealthcare.ca/": {
+    "provider_type": "md,nd,rn",
+    "drip_packages": "anti_aging,energy",
+    "add_on_services": "botox,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.solmed.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://greenapplehealthcare.ca/%3Futm_source%3Dgooglebusinessprofile%26utm_medium%3Dorganic%26utm_campaign%3DGoogle%2BBusiness%2BProfile": {
+    "provider_type": "md,nd",
+    "drip_packages": "",
+    "add_on_services": "ozone",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.wildmedicine.ca/": {
+    "provider_type": "nd,np",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://doctorsingh.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.ramilas.com/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.drcassan.com/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.sandramurphynd.com/": {
+    "provider_type": "md,nd",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.stittsvillehealth.com/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://welllongevity.ca/ottawa/exechealth/%3Futm_source%3Dgoogle%26utm_medium%3Dgmb%26utm_campaign%3Dottawa": {
+    "provider_type": "",
+    "drip_packages": "anti_aging",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "false"
+  },
+  "http://www.yorkdalewellness.com/": {
+    "provider_type": "",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.laviehealth.com/%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgmb": {
+    "provider_type": "md",
+    "drip_packages": "anti_aging,energy",
+    "add_on_services": "hormone_therapy,peptides,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.menswellnessclinic.ca/": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.summerhillhealth.com/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.vividhealth.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility,immune",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.junctionhealth.ca/": {
+    "provider_type": "md,nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.holisticconnection.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "energy",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://forcesofnature.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.bstretched.com/contact": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.ohanawellnessclinic.com/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://healthone.ca/the-well/rehab-tw/%3Futm_source%3Dgoogle%26utm_medium%3Dlocal%26utm_campaign%3Dthewell": {
+    "provider_type": "nd,rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "acupuncture,botox,hormone_therapy,laser,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://wellnesscentre4you.com/": {
+    "provider_type": "md,rn",
+    "drip_packages": "",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://regen.care/": {
+    "provider_type": "md",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.welldiagnostics.ca/toronto-bay": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.welldiagnostics.ca/toronto-king": {
+    "provider_type": "np",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://sinclairwellness.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,hormone_therapy",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.citrusmedical.ca/": {
+    "provider_type": "md,nd",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://evolvewellnessvancouver.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.westendwellness.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging,fertility",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.acupoint.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "energy",
+    "add_on_services": "acupuncture,ozone",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://vancouverwellnessclinic.janeapp.com/": {
+    "provider_type": "md,nd",
+    "drip_packages": "athletic,energy",
+    "add_on_services": "acupuncture,hormone_therapy,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.empowerhealth.ca/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "energy",
+    "add_on_services": "acupuncture,ozone",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.renewal.clinic/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://liveyounger.ca/%3Futm_source%3DGoogle%26utm_medium%3DGMB": {
+    "provider_type": "md,nd",
+    "drip_packages": "anti_aging",
+    "add_on_services": "acupuncture,botox,hormone_therapy,laser,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://proactivehealthgroup.ca/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "athletic,energy,hydration_pkg",
+    "add_on_services": "red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.evolvechiro.ca/%3Futm_source%3Dgmb_listing%26utm_medium%3Dorganic%26utm_campaign%3Dgmb_website_link_evolve_5th": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://colabhealthandbody.ca/": {
+    "provider_type": "md,nd,rn",
+    "drip_packages": "energy",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.evolvechiro.ca/%3Futm_source%3Dgmb_listing%26utm_medium%3Dorganic%26utm_campaign%3Dgmb_website_link_evolve_8th": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.serenitynowwellness.ca/%3Futm_source%3Dgoogle_business_profile%26utm_medium%3Dorganic%26utm_campaign%3Dwebsite_url": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.chiropracticfamilywellness.ca/": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.inliv.com/": {
+    "provider_type": "md,np,rn",
+    "drip_packages": "anti_aging",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.ingoodhandswellness.com/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://bodytherapycalgary.com/": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.parallelwellness.com/": {
+    "provider_type": "",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.insidehealthclinic.com/": {
+    "provider_type": "md,nd,np,rn",
+    "drip_packages": "detox,energy,fertility",
+    "add_on_services": "acupuncture,laser,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://ivleagueinjections.com/": {
+    "provider_type": "rn",
+    "drip_packages": "beauty",
+    "add_on_services": "botox",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://healthone.ca/north-york/medical-walk-in-ny/%3Futm_source%3Dgooglelocal%26utm_medium%3Dwebsite%26utm_campaign%3Dmedical_walkin%26utm_id%3Dnorth-york": {
+    "provider_type": "md,nd,rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "acupuncture,botox,hormone_therapy,laser,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://aafiyataesthetics.com/": {
+    "provider_type": "nd",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,laser,weight_loss_program",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.cbamedicine.com/": {
+    "provider_type": "md,rn",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,hormone_therapy,laser,peptides",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.healthglobe.ca/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "fertility",
+    "add_on_services": "acupuncture,botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://reviveskinmedicalspa.com/": {
+    "provider_type": "md",
+    "drip_packages": "beauty,weight_loss",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.youthfulderma.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging,hydration_pkg",
+    "add_on_services": "botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.mypurebalance.ca/": {
+    "provider_type": "nd",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,ozone,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://vavalmedical.ca/": {
+    "provider_type": "md",
+    "drip_packages": "anti_aging",
+    "add_on_services": "botox,laser,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.ellebeauty.ca/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging,athletic,beauty,detox,energy,fertility,hangover,hydration_pkg,immune,weight_loss",
+    "add_on_services": "botox",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.kxyorkville.com/": {
+    "provider_type": "rn",
+    "drip_packages": "anti_aging,energy",
+    "add_on_services": "hyperbaric",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://thehealthfirstgroup.com/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "",
+    "add_on_services": "acupuncture,cryotherapy,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://brightandwell.ca/": {
+    "provider_type": "md,nd,np,rn",
+    "drip_packages": "energy,fertility",
+    "add_on_services": "acupuncture,hormone_therapy,red_light",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://youthbar.ca/": {
+    "provider_type": "np,rn",
+    "drip_packages": "hydration_pkg",
+    "add_on_services": "botox",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "http://www.medcairehealth.ca/": {
+    "provider_type": "np,rn",
+    "drip_packages": "anti_aging,athletic,immune,weight_loss",
+    "add_on_services": "acupuncture,botox",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.choicehealthcentre.com/": {
+    "provider_type": "nd,rn",
+    "drip_packages": "athletic,beauty,detox,energy,hydration_pkg,immune",
+    "add_on_services": "acupuncture,botox,laser",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.bayviewwellness.com/": {
+    "provider_type": "nd",
+    "drip_packages": "energy,fertility,immune",
+    "add_on_services": "acupuncture",
+    "clinic_type": "clinic",
+    "has_booking": "true"
+  },
+  "https://www.mycorehealth.com/%3Futm_source%3DGBP%26utm_medium%3Dorganic": {
+    "provider_type": "",
+    "clinic_type": "",
+    "drip_packages": "",
+    "add_on_services": "",
+    "has_booking": "true"
+  }
+}

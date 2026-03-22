@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/timicodes/Project/ivtherapycanada/app/[province]/[city]/[service])",
+      "Bash(mkdir -p /Users/timicodes/Project/ivtherapycanada/app/vendors/[slug])",
+      "Bash(mkdir -p /Users/timicodes/Project/ivtherapycanada/app/blog/[slug])",
+      "Bash(DATABASE_URL=\"postgresql://postgres:GKjK2bKY7mylrQQy@db.vwomqemnxhjqhrgqmdfx.supabase.co:5432/postgres\" npx prisma generate 2>&1)"
+    ]
+  }
+}

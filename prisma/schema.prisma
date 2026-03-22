@@ -1,0 +1,195 @@
+generator client {
+  provider      = "prisma-client-js"
+  binaryTargets = ["native", "rhel-openssl-3.0.x"]
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+model Vendor {
+  id                   String   @id @default(cuid())
+  name                 String
+  slug                 String   @unique
+  description          String?
+  logoUrl              String?
+  phone                String?
+  website              String?
+  email                String?
+  address              String?
+  street               String?
+  city                 String
+  province             String
+  postalCode           String?
+  lat                  Float?
+  lng                  Float?
+  rating               Float?
+  reviewCount          Int      @default(0)
+  services             String[]
+  providerType         String[]
+  clinicType           String   @default("clinic")
+  dripPackages         String[]
+  addOnServices        String[]
+  hasBooking           Boolean  @default(false)
+  bookingLink          String?
+  instagram            String?
+  facebook             String?
+  plan                 String   @default("free")
+  stripeCustomerId     String?
+  stripeSubscriptionId String?
+  isVerified           Boolean  @default(false)
+  isFeatured           Boolean  @default(false)
+  businessStatus       String   @default("OPERATIONAL")
+  workingHours         String?
+  googlePlaceId        String?
+  photosCount          Int      @default(0)
+  image1Url            String?
+  image2Url            String?
+  image3Url            String?
+  createdAt            DateTime @default(now())
+  updatedAt            DateTime @updatedAt
+  leads                Lead[]
+  reviews              Review[]
+  users                VendorUser[]
+}
+
+model City {
+  id              String   @id @default(cuid())
+  name            String
+  slug            String   @unique
+  province        String
+  provinceSlug    String
+  population      Int?
+  lat             Float?
+  lng             Float?
+  nearbyCities    String[]
+  metaTitle       String?
+  metaDescription String?
+  introContent    String?
+  createdAt       DateTime @default(now())
+}
+
+model Lead {
+  id          String   @id @default(cuid())
+  city        String
+  province    String?
+  serviceType String?
+  name        String
+  email       String
+  phone       String?
+  message     String?
+  vendorId    String?
+  vendor      Vendor?  @relation(fields: [vendorId], references: [id])
+  status      String   @default("new")
+  leadFee     Float?
+  billed      Boolean  @default(false)
+  createdAt   DateTime @default(now())
+}
+
+model Review {
+  id         String   @id @default(cuid())
+  vendorId   String
+  vendor     Vendor   @relation(fields: [vendorId], references: [id], onDelete: Cascade)
+  authorName String?
+  rating     Int
+  body       String?
+  source     String   @default("direct")
+  createdAt  DateTime @default(now())
+}
+
+model VendorUser {
+  id        String   @id @default(cuid())
+  vendorId  String
+  vendor    Vendor   @relation(fields: [vendorId], references: [id], onDelete: Cascade)
+  userId    String
+  role      String   @default("owner")
+  createdAt DateTime @default(now())
+}
+
+// ─── Analytics ───────────────────────────────────────────────────────────────
+
+model AnalyticsSession {
+  id            String   @id @default(cuid())
+  sessionId     String   @unique
+  referrer      String?                        // document.referrer (Google, direct, social, etc.)
+  referrerType  String?                        // google | direct | social | other
+  utmSource     String?
+  utmMedium     String?
+  utmCampaign   String?
+  entryPage     String                         // first URL visited
+  entryMethod   String?                        // search | city-browse | province-browse | direct | service-filter
+  deviceType    String?                        // mobile | desktop | tablet
+  userAgent     String?
+  firstCity     String?                        // city context on entry
+  firstProvince String?
+  totalEvents   Int      @default(0)
+  hasLeadAction Boolean  @default(false)       // did this session end with a high-intent action?
+  leadActionType String?                       // phone_click | website_click | booking_click | quote_submit
+  winnerVendorId String?                       // vendor that got the final lead action
+  winnerVendorName String?
+  sessionDurationSec Int?                      // last event ts - first event ts
+  pagesViewed   Int      @default(0)
+  vendorsViewed Int      @default(0)           // unique vendor profiles seen
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  events        AnalyticsEvent[]
+
+  @@index([createdAt])
+  @@index([entryMethod])
+  @@index([hasLeadAction])
+  @@index([firstCity])
+}
+
+model AnalyticsEvent {
+  id           String   @id @default(cuid())
+  sessionId    String
+  session      AnalyticsSession @relation(fields: [sessionId], references: [sessionId])
+
+  // Event classification
+  event        String   // see event taxonomy in ANALYTICS_PLAN.md
+  category     String?  // discovery | high_intent | navigation | engagement
+
+  // Page context
+  page         String?
+  pageType     String?  // home | city | province | vendor_profile | vendor_list | blog | quote
+
+  // Location context
+  city         String?
+  province     String?
+  service      String?
+
+  // Vendor context
+  vendorId     String?
+  vendorName   String?
+  vendorSlug   String?
+  vendorPlan   String?
+  vendorRank   Int?     // position on page when clicked
+
+  // Search context
+  query        String?
+  resultCount  Int?
+  hasResults   Boolean?
+
+  // Engagement context
+  scrollDepth  Int?     // 0–100 percent
+  timeOnPage   Int?     // seconds
+
+  // Source context
+  sourceType   String?  // search | city-browse | province-browse | direct | navbar-dropdown
+  referrer     String?
+
+  // Flexible extra data
+  metadata     Json?
+
+  createdAt    DateTime @default(now())
+
+  @@index([event])
+  @@index([sessionId])
+  @@index([city])
+  @@index([vendorId])
+  @@index([createdAt])
+  @@index([category])
+  @@index([pageType])
+}
